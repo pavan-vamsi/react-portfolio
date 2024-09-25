@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Principal Financial",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on CRM Project", "Reduced load times by 25%"],
+    "imageSrc": "history/principal.png"
+  },
+  {
+    "role": "Java Full Stack Developer",
+    "organisation": "Cognizant",
+    "startDate": "July, 2020",
+    "endDate": "Dec, 2022",
+    "experiences": [
+      "Worked closely with UI/UX designers",
+      "Rendering UI with React.js"
+    ],
+    "imageSrc": "history/cognizant.png"
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Pantech AI",
+    "startDate": "May, 2023",
+    "endDate": "Jul, 2023",
+    "experiences": [
+      "Improved performance with scalable Servlet-based software",
+      "Reduced errors by 30% with enhanced form validation"
+    ],
+    "imageSrc": "history/pantechai.png"
+  }
+]

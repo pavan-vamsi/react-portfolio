@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Netflix GPT",
+    "imageSrc": "projects/NetflixGPT.png",
+    "description": "This is a Movie Streaming Platform, reducing bounce rate of 25% and boosting search rate of 35% using OPENAI",
+    "skills": ["React", "Tailwind CSS", "Firebase"],
+    "source": "https://github.com/pavan-vamsi/netflix-movie-gpt"
+  },
+  {
+    "title": "Blog Platform",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Blog Platform reducing data retrieval times by 40% and enhancing security with Spring Security for user authentication.",
+    "skills": ["Java", "Spring MVC", "JSP"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/Ecommerce.png",
+    "description": "Built an e-commerce site with React and Redux, featuring API product fetching and seamless cart management.",
+    "skills": ["React", "Redux", "Class Based"],
+    "source": "https://github.com/pavan-vamsi/Ecommerce"
+  }
+]
